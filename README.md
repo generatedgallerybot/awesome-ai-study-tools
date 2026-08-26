@@ -26,6 +26,7 @@ AI is transforming how students learn. This list collects the best AI-powered to
 - [Knowt](https://knowt.com/) - AI-powered flashcard generator that creates cards from your notes and videos. Free for students.
 - [Wisdolia](https://wisdolia.com/) - Chrome extension that generates flashcards from any webpage, article, or PDF using AI.
 - [Mochi](https://mochi.cards/) - Markdown-based spaced repetition app with clean UI and Anki import support.
+- [Kaoyan English Context Cards](https://github.com/CAlM123451/kaoyan-english-context-cards) - Turn exam reading passages into context-based vocabulary cards with Chinese translation, A/B/C frequency grading, SM-2/FSRS spaced repetition, and Anki export. Open-source, MIT licensed.
 
 ## Textbook Summarizers
 
@@ -41,6 +42,7 @@ AI is transforming how students learn. This list collects the best AI-powered to
 - [PrepAI](https://www.prepai.io/) - Generates practice questions (MCQ, short answer, true/false) from any text or document.
 - [Questgen](https://www.questgen.ai/) - AI question generator for educators and students — creates quizzes from any content.
 - [Revisely](https://revisely.com/) - AI-powered revision tool that generates flashcards and quizzes from your study materials.
+- [Kaoyan AI Toolkit](https://github.com/CAlM123451/kaoyan-ai-toolkit) - AI exam-prep toolkit for topic analysis, study planning, mind maps, and mistake review. Supports DeepSeek/litellm multi-model backend, FSRS spaced repetition, and markmap export. Open-source, MIT licensed.
 
 ## AI Tutors
 
