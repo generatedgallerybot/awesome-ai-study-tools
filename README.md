@@ -24,6 +24,7 @@ AI is transforming how students learn. This list collects the best AI-powered to
 - [Anki](https://apps.ankiweb.net/) - Open-source spaced repetition flashcard app with a massive shared deck library. The gold standard for memorization.
 - [Quizlet](https://quizlet.com/) - Popular flashcard platform with AI-powered study modes, learn mode, and millions of user-created sets.
 - [Knowt](https://knowt.com/) - AI-powered flashcard generator that creates cards from your notes and videos. Free for students.
+- [SummarizAI](https://summarizai.ink/) - Chrome extension that adds AI summary, chapters, chat, and Study flashcards on the YouTube watch page (free for students).
 - [Wisdolia](https://wisdolia.com/) - Chrome extension that generates flashcards from any webpage, article, or PDF using AI.
 - [Mochi](https://mochi.cards/) - Markdown-based spaced repetition app with clean UI and Anki import support.
 
