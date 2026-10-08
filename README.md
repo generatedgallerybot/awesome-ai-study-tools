@@ -21,6 +21,7 @@ AI is transforming how students learn. This list collects the best AI-powered to
 
 ## Flashcard Generators
 
+- [BrioVocab](https://briovocab.com/) - French vocabulary flashcards with AI-generated definitions, illustrated A1-B2 word sets, custom words, and adaptive spaced repetition. [iOS](https://apps.apple.com/app/id6793255945), [Android](https://play.google.com/store/apps/details?id=com.briovocab.googleplay.app).
 - [Anki](https://apps.ankiweb.net/) - Open-source spaced repetition flashcard app with a massive shared deck library. The gold standard for memorization.
 - [Quizlet](https://quizlet.com/) - Popular flashcard platform with AI-powered study modes, learn mode, and millions of user-created sets.
 - [Knowt](https://knowt.com/) - AI-powered flashcard generator that creates cards from your notes and videos. Free for students.
