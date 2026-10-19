@@ -47,6 +47,7 @@ AI is transforming how students learn. This list collects the best AI-powered to
 - [Khanmigo](https://www.khanacademy.org/khan-labs) - Khan Academy's AI tutor powered by GPT-4. Guides students through problems step-by-step without giving away answers.
 - [Socratic by Google](https://socratic.org/) - Point your camera at a homework question and get step-by-step explanations using Google AI.
 - [Synthesis Tutor](https://www.synthesis.is/) - AI math tutor with adaptive problem sets and real-time feedback for K-12 students.
+- [Ask Poppy](https://askpoppy.ai/) - Voice and chat AI tutor for iPhone, iPad and Mac that asks questions and gives hints instead of handing over answers.
 - [Elicit](https://elicit.com/) - AI research assistant that helps find, summarize, and synthesize academic papers.
 
 ## Note Taking
