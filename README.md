@@ -48,6 +48,7 @@ AI is transforming how students learn. This list collects the best AI-powered to
 - [Socratic by Google](https://socratic.org/) - Point your camera at a homework question and get step-by-step explanations using Google AI.
 - [Synthesis Tutor](https://www.synthesis.is/) - AI math tutor with adaptive problem sets and real-time feedback for K-12 students.
 - [Elicit](https://elicit.com/) - AI research assistant that helps find, summarize, and synthesize academic papers.
+- [soclever](https://soclever.io) - AI tutor that turns any topic into a short course with five-minute lessons, practice questions, comics and podcast versions. Freemium.
 
 ## Note Taking
 
