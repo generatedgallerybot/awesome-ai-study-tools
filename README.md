@@ -70,6 +70,7 @@ Contributions welcome! Please open an issue or submit a PR. Make sure tools are:
 - AI-powered or AI-enhanced
 - Actively maintained
 - Useful for students or self-learners
+- [QuizQuip](https://quizquip.com) - Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, key terms, quizzes, topical questions and original practice papers by exam stage.
 
 ## License
 
